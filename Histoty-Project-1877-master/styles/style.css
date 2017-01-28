@@ -18,9 +18,8 @@ h1, h2, h3 {
 	margin: 0px;
 	padding: 0px;
 	letter-spacing: -2px;
-	text-transform: lowercase;
 	font-weight: normal;
-	color: #2F6BCF;
+	color: #383838;
 }
 
 h1 {
@@ -219,6 +218,11 @@ a:hover {
 	margin-bottom: 15px;
 	padding: 0 40px;
 }
+.post1 {
+	margin-bottom: 15px;
+	padding: 0 40px;
+	font-size: 15pt;
+}
 
 .post-bgtop {
 }
@@ -416,9 +420,10 @@ a:hover {
 {
 	box-shadow: 0px 0px 0px 10px rgba(0,0,0,0.03);
 }
-.menuha{right: 10px;
-    top: 20%;
+.menuha{right: 3%;
+    top: 11%;
     padding: 10px; 
     background: #ffe;
     border: 1px solid #333; 
 position: fixed; }
+.del {display: none;}
